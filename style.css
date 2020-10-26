@@ -1,0 +1,40 @@
+body
+{
+	background-image: url(IMG_20191222_094307_6.jpg);
+	background-position: center;
+	background-size: cover;
+	height: 100vh;
+}
+.form
+{
+	padding: 15px;
+	margin: 0 auto 100px;
+	max-width: 360px;
+	max-height: 400px;
+	text-align: center;
+	z-index: 1;
+	position: centre;
+}
+.form input
+{
+	font-size: 15px;
+	margin: 0 0 15px;
+	padding: 15px;
+	text-align: centre;
+	width: 100%;
+	font-family: "roboto",san-serif;
+	box-sizing: border-box;
+	outline: 1;
+	border: 0;
+	background: cyan;
+}
+. success
+{
+color : #3c763d ;
+background : #dff0d8 ;
+border : 1px;
+margin - bottom: 20px ;
+}
+.msgln {
+	margin: 0 0 2px 0;
+}
